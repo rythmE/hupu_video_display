@@ -6,7 +6,9 @@ Code -> Download zip
 
 ![image](https://user-images.githubusercontent.com/15682227/137614158-3c405675-d350-47af-9159-7b2d30eb659f.png)
 
-下载后解压到文件夹 hupu_video_display-main
+下载后解压
+
+![image](https://user-images.githubusercontent.com/15682227/137614365-4faaede6-7e94-494d-b2c4-d3da49f35b1d.png)
 
 打开 Chrome，地址栏进入 chrome://extensions/ 
 或右上角扩展程序菜单栏里选择“管理扩展程序”
