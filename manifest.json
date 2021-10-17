@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "虎扑视频显示插件",
+	"version": "1.0",
+	"description": "虎扑PC端视频显示插件",
+	"author": "rythmE",
+	"content_scripts": 
+	[
+		{
+			"matches": ["https://bbs.hupu.com/*"],
+			"js": ["index.js"]
+		}
+	]
+}
