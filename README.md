@@ -11,7 +11,7 @@ Code -> Download zip
 ![image](https://user-images.githubusercontent.com/15682227/137614365-4faaede6-7e94-494d-b2c4-d3da49f35b1d.png)
 
 打开 Chrome，地址栏进入 chrome://extensions/ 
-或右上角扩展程序菜单栏里选择“管理扩展程序”
+（或右上角扩展程序菜单栏里选择“管理扩展程序”）
 进入扩展程序管理页面
 
 打开右上角“开发者模式”
